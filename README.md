@@ -1,7 +1,7 @@
 # airspace-launch-optimization
 
 
-!(notes/1.jpeg)
+![Note 1](notes/1.jpeg)
 ![Note 2](notes/2.jpeg)
 ![Note 3](notes/3.jpeg)
 ![Note 4](notes/4.jpeg)
