@@ -4,3 +4,9 @@ Datasets/
 *.png
 *.html
 .ipynb_checkpoints
+*.db
+Datasets/
+__pycache__/
+*.pyc
+*.pkl
+
